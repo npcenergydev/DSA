@@ -42,7 +42,7 @@ This is an ongoing repository. I’ll keep adding new LeetCode solutions as I so
 
 🔗 Connect With Me
 
-* GitHub: @npcenergydev
+* GitHub: https://github.com/npcenergydev
 * LeetCode: https://leetcode.com/u/debarpan__/
 
 ⸻
